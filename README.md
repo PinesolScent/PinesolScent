@@ -2,7 +2,7 @@
 - 👀 I’m interested in changing careers and working backend web development
 - 🌱 I’m currently learning with help from theodinproject.com
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: pinesol313@gmail.com
 
 <!---
 PinesolScent/PinesolScent is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
